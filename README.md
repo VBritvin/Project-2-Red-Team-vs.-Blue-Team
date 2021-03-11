@@ -1,7 +1,6 @@
 # Project-2-Red-Team-vs.-Blue-Team
 **Assessment, Analysis, and Hardening of a Vulnerable System**
 ![image](https://user-images.githubusercontent.com/69567386/110802908-a4dcef00-824c-11eb-9b65-ef33fa9c47b3.png)
-
 In the Red Team vs. Blue Team scenario I played the role of both pentester and SOC analyst.
 
 ***Project Objectives:*** 
