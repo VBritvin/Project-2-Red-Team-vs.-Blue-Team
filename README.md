@@ -6,8 +6,11 @@
 
 =======
 ![image](https://user-images.githubusercontent.com/69567386/110802908-a4dcef00-824c-11eb-9b65-ef33fa9c47b3.png)
+<<<<<<< HEAD
 >>>>>>> 997fae3f809249ce73e259d26d7615eb817dffa7
 
+=======
+>>>>>>> 45a40d7a1849bb290a13fe8659fd354640650950
 In the Red Team vs. Blue Team scenario I played the role of both pentester and SOC analyst.
 
 ***Project Objectives:*** 
